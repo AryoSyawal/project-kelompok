@@ -76,3 +76,9 @@ a{
 }
 
 
+.table{
+    position: absolute;
+    left: 600px;
+    top: 300px;
+}
+

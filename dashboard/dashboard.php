@@ -1,3 +1,7 @@
+<?php
+    include 'koneksi.php'
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +17,7 @@
         <img src="assets/hospital.png" alt="">
         <ul class="menu">
             <li><a href="dashboard.php"><img src="assets/home.png" alt=""></a></li>
-            <li><a href="dokter.php"><img src="assets/doctor.png" alt=""></a></li>
+            <li><a href="datadokter.php"><img src="assets/doctor.png" alt=""></a></li>
             <li><a href="pasien.php"><img src="assets/patient.png" alt=""></a></li>
             <li><a href="konsultasi.php"><img src="assets/konsul.png" alt=""></a></li>
         </ul>
